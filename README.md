@@ -2,3 +2,5 @@
 CLustering application on single-cell protoeonomic data
 
 This is the repository for the week 10 lab
+
+Downloaded clustering omics repository from GitHub
